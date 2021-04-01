@@ -8,11 +8,12 @@
   position: sticky;
   top: 0;
   z-index: 999;
-  
+  padding: 0.5rem 0.5rem;
 }
 
 .navbar.active{
   background: linear-gradient(90deg, rgba(232,202,183,0.8) 0%, rgba(232,202,183,0.8) 100%);
+  padding: 0 0.5rem;
 }
 
 .navbar-container {
